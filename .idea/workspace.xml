@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a8c5284d-fcc0-4dcd-b829-2dbac8fd99f1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2bNE83LPvfVPSEslXNCVXMQUW0p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.ejemplo.executor": "Run",
+    "Python.ejercicio.executor": "Run",
+    "Python.ejercicio_1.executor": "Run",
+    "Python.ejercicio_10.executor": "Run",
+    "Python.ejercicio_11.executor": "Run",
+    "Python.ejercicio_2.executor": "Run",
+    "Python.ejercicio_3.executor": "Run",
+    "Python.ejercicio_4.executor": "Run",
+    "Python.ejercicio_5.executor": "Run",
+    "Python.ejercicio_6.executor": "Run",
+    "Python.ejercicio_7.executor": "Run",
+    "Python.ejercicio_8.executor": "Run",
+    "Python.ejercicio_9.executor": "Run",
+    "Python.graficas.executor": "Run",
+    "Python.test04.executor": "Run",
+    "Python.test05.executor": "Run",
+    "Python.test06.executor": "Run",
+    "Python.test_01.executor": "Run",
+    "Python.test_02.executor": "Run",
+    "Python.test_03.executor": "Run",
+    "Python.test_04.executor": "Run",
+    "Python.test_05.executor": "Run",
+    "Python.test_06.executor": "Run",
+    "Python.test_07.executor": "Run",
+    "Python.test_08.executor": "Run",
+    "Python.test_09.executor": "Run",
+    "Python.test_10.executor": "Run",
+    "Python.test_11.executor": "Run",
+    "Python.test_12.executor": "Run",
+    "Python.test_13.executor": "Run",
+    "Python.test_14.executor": "Run",
+    "Python.tiposDeDatos.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Max/Desktop/PYTHON MODULO 1/Sesion 1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Max\Desktop\PYTHON MODULO 1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a8c5284d-fcc0-4dcd-b829-2dbac8fd99f1" name="Changes" comment="" />
+      <created>1706046976949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706046976949</updated>
+      <workItem from="1706046980834" duration="10896000" />
+      <workItem from="1706122101337" duration="3382000" />
+      <workItem from="1706165482527" duration="98000" />
+      <workItem from="1706201249203" duration="112000" />
+      <workItem from="1706229222589" duration="4249000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$test_04.coverage" NAME="test_04 Coverage Results" MODIFIED="1706230730021" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion 2" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$ejercicio_11.coverage" NAME="ejercicio_11 Coverage Results" MODIFIED="1706124992360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 1" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$ejercicio_2.coverage" NAME="ejercicio_2 Coverage Results" MODIFIED="1706122432857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 1" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$test05.coverage" NAME="test05 Coverage Results" MODIFIED="1706062525647" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion 1" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$ejercicio_5.coverage" NAME="ejercicio_5 Coverage Results" MODIFIED="1706124013315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 1" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$test_07.coverage" NAME="test_07 Coverage Results" MODIFIED="1706231330337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion 2" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$test_12.coverage" NAME="test_12 Coverage Results" MODIFIED="1706232406178" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion 2" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$test_09.coverage" NAME="test_09 Coverage Results" MODIFIED="1706231825149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion 2" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$test06.coverage" NAME="test06 Coverage Results" MODIFIED="1706063146624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion 1" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$test_06.coverage" NAME="test_06 Coverage Results" MODIFIED="1706231145139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion 2" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$test_13.coverage" NAME="test_13 Coverage Results" MODIFIED="1706232629611" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion 2" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$ejercicio_8.coverage" NAME="ejercicio_8 Coverage Results" MODIFIED="1706124558548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 1" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$test_01.coverage" NAME="test_01 Coverage Results" MODIFIED="1706060030116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion 1" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$test_10.coverage" NAME="test_10 Coverage Results" MODIFIED="1706232003940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion 2" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$ejemplo.coverage" NAME="ejemplo Coverage Results" MODIFIED="1706055347029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$test_11.coverage" NAME="test_11 Coverage Results" MODIFIED="1706232238649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion 2" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$test_14.coverage" NAME="test_14 Coverage Results" MODIFIED="1706232843780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion 2" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$ejercicio_6.coverage" NAME="ejercicio_6 Coverage Results" MODIFIED="1706123005598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 1" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$ejercicio_9.coverage" NAME="ejercicio_9 Coverage Results" MODIFIED="1706124774899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 1" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$test04.coverage" NAME="test04 Coverage Results" MODIFIED="1706061344417" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion 1" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$ejercicio_3.coverage" NAME="ejercicio_3 Coverage Results" MODIFIED="1706122556456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 1" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$tiposDeDatos.coverage" NAME="tiposDeDatos Coverage Results" MODIFIED="1706201328504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion 1" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$test_02.coverage" NAME="test_02 Coverage Results" MODIFIED="1706229626234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion 2" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$ejercicio_10.coverage" NAME="ejercicio_10 Coverage Results" MODIFIED="1706124895837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 1" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$ejercicio.coverage" NAME="ejercicio Coverage Results" MODIFIED="1706047351952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$test_03.coverage" NAME="test_03 Coverage Results" MODIFIED="1706230093957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion 2" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$ejercicio_7.coverage" NAME="ejercicio_7 Coverage Results" MODIFIED="1706124102670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 1" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$ejercicio_1.coverage" NAME="ejercicio_1 Coverage Results" MODIFIED="1706122340703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 1" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$test_05.coverage" NAME="test_05 Coverage Results" MODIFIED="1706230926782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion 2" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$test_08.coverage" NAME="test_08 Coverage Results" MODIFIED="1706231512083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Sesion 2" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$graficas.coverage" NAME="graficas Coverage Results" MODIFIED="1706065412132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PYTHON_MODULO_1$ejercicio_4.coverage" NAME="ejercicio_4 Coverage Results" MODIFIED="1706122678084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Reforzamiento 1" />
+  </component>
+</project>
