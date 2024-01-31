@@ -5,38 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8c5284d-fcc0-4dcd-b829-2dbac8fd99f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Sesion 3/test_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion 3/test_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion 3/test_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion 3/test_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion 3/test_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion 3/test_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion 3/test_07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion 3/test_08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion 3/test_09.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion 3/test_10.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion 3/test_11.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion 3/test_12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion 3/test_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion 3/test_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion 3/test_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion 3/test_16.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion 3/test_17.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion 3/test_18.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion 3/test_19.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Sesion 3/test_20.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reforzamiento 1/ejercicio_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reforzamiento 1/ejercicio_10.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reforzamiento 1/ejercicio_11.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reforzamiento 1/ejercicio_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reforzamiento 1/ejercicio_3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reforzamiento 1/ejercicio_4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reforzamiento 1/ejercicio_5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reforzamiento 1/ejercicio_6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reforzamiento 1/ejercicio_7.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reforzamiento 1/ejercicio_8.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Reforzamiento 1/ejercicio_9.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,58 +49,58 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.ejemplo.executor": "Run",
-    "Python.ejercicio.executor": "Run",
-    "Python.ejercicio_1.executor": "Run",
-    "Python.ejercicio_10.executor": "Run",
-    "Python.ejercicio_11.executor": "Run",
-    "Python.ejercicio_2.executor": "Run",
-    "Python.ejercicio_3.executor": "Run",
-    "Python.ejercicio_4.executor": "Run",
-    "Python.ejercicio_5.executor": "Run",
-    "Python.ejercicio_6.executor": "Run",
-    "Python.ejercicio_7.executor": "Run",
-    "Python.ejercicio_8.executor": "Run",
-    "Python.ejercicio_9.executor": "Run",
-    "Python.graficas.executor": "Run",
-    "Python.test04.executor": "Run",
-    "Python.test05.executor": "Run",
-    "Python.test06.executor": "Run",
-    "Python.test_01.executor": "Run",
-    "Python.test_02.executor": "Run",
-    "Python.test_03.executor": "Run",
-    "Python.test_04.executor": "Run",
-    "Python.test_05.executor": "Run",
-    "Python.test_06.executor": "Run",
-    "Python.test_07.executor": "Run",
-    "Python.test_08.executor": "Run",
-    "Python.test_09.executor": "Run",
-    "Python.test_10.executor": "Run",
-    "Python.test_11.executor": "Run",
-    "Python.test_12.executor": "Run",
-    "Python.test_13.executor": "Run",
-    "Python.test_14.executor": "Run",
-    "Python.test_15.executor": "Run",
-    "Python.test_16.executor": "Run",
-    "Python.test_17.executor": "Run",
-    "Python.test_18.executor": "Run",
-    "Python.test_19.executor": "Run",
-    "Python.tiposDeDatos.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Max/Desktop/PYTHON MODULO 1",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.ejemplo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio_1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio_11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio_2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio_3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio_4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio_5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio_6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio_7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio_8.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ejercicio_9.executor&quot;: &quot;Run&quot;,
+    &quot;Python.graficas.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_01.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_02.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_03.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_04.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_05.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_06.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_07.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_08.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_09.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_10.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_11.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_12.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_13.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_15.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_16.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_17.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_18.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_19.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tiposDeDatos.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Max/Desktop/PYTHON MODULO 1&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Max\Desktop\PYTHON MODULO 1" />
@@ -162,7 +131,9 @@
       <workItem from="1706296423628" duration="1168000" />
       <workItem from="1706395384082" duration="629000" />
       <workItem from="1706659883216" duration="195000" />
-      <workItem from="1706660105664" duration="9806000" />
+      <workItem from="1706660105664" duration="10068000" />
+      <workItem from="1706707096866" duration="120000" />
+      <workItem from="1706722881015" duration="1192000" />
     </task>
     <servers />
   </component>
